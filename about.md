@@ -1,25 +1,35 @@
 ---
-layout: page
-title: About
+layout: post
+title: "Jihye Leee"
+subtitle: "이지혜"
+type: "About"
+author: "Jihye Lee"
 permalink: /about/
-published: true
+post-header: true
+header-img: img/about.jpg
 ---
 
-<div class="page" markdown="1">
+UX 에이전시 GUI 디자이너를 거쳐 현재는 RIDI에서 프로덕트 디자이너로 5년째 근무 중이다. 디자이너에게 코딩을 알려주는 코딩하는 디자이너라는 프로그램을 운영하고 브랜딩하기도 했다. 더 좋은 디자인 팀 만들기와 디자이너의 글쓰기에 관심이 많다.
 
-{% capture page_subtitle %}
-<img
-    class="me"
-    alt="{{ author.name }}"
-    src="{{ site.author.photo | relative_url }}"
-    srcset="{{ site.author.photo2x | relative_url }} 2x"
-/>
-{% endcapture %}
+# Media
 
-{% include page/title.html title=page.title subtitle=page_subtitle %}
+### 월간 마이크로소프트웨어 2015년 2월호 표지 모델 및 기사
 
-## Some heading 
+- [마소 VOL. 376-2015.02](https://www.imaso.co.kr/archives/458)
+- [코딩하는 디자이너를 말하다](http://14.49.34.137/?p=3216)
+- [이지혜 DXD세미나 운영진 “코딩은 또 하나의 즐거움”](http://14.49.34.137/?p=3207)
 
-I'll alert the crew. Sure. You'd be surprised how far a hug goes with Geordi, or Worf. Did you come here for something in particular or just general Riker-bashing? You did exactly what you had to do. You considered all your options, you tried every alternative and then you made the hard choice. Your shields were failing, sir. Well, that's certainly good to know. A surprise party? Mr. Worf, I hate surprise parties. I would *never* do that to you. And blowing into maximum warp speed, you appeared for an instant to be in two places at once. How long can two people talk about nothing? I recommend you don't fire until you're within 40,000 kilometers. Congratulations - you just destroyed the Enterprise. Worf, It's better than music. It's jazz. Yes, absolutely, I do indeed concur, wholeheartedly! What's a knock-out like you doing in a computer-generated gin joint like this? I can't. As much as I care about you, my first duty is to the ship. Some days you get the bear, and some days the bear gets you.
+<br />
 
-</div>
+### 디자인 매거진 CA 2015년 3월호
+
+- [디자이너와 스타트업 종사자의 네트워킹 파티](http://cakorea.com/archives/2779)
+
+<br />
+
+### Design Spectrum의 팟캐스트 Design Table
+
+- Design Table Ep 19. `끊임없이 배우는 디자이너`
+- 들을 수 있는 곳: [iTunes](http://itun.es/kr/i6TOib.c) / [팟빵](http://www.podbbang.com/ch/13590) / [Podty](https://www.podty.me/cast/174282)
+
+<br />
